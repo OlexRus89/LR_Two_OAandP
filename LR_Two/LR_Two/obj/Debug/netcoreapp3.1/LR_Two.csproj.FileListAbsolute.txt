@@ -1,0 +1,13 @@
+C:\Users\lesha\OneDrive\Desktop\LR_Two\LR_Two\bin\Debug\netcoreapp3.1\LR_Two.exe
+C:\Users\lesha\OneDrive\Desktop\LR_Two\LR_Two\bin\Debug\netcoreapp3.1\LR_Two.deps.json
+C:\Users\lesha\OneDrive\Desktop\LR_Two\LR_Two\bin\Debug\netcoreapp3.1\LR_Two.runtimeconfig.json
+C:\Users\lesha\OneDrive\Desktop\LR_Two\LR_Two\bin\Debug\netcoreapp3.1\LR_Two.runtimeconfig.dev.json
+C:\Users\lesha\OneDrive\Desktop\LR_Two\LR_Two\bin\Debug\netcoreapp3.1\LR_Two.dll
+C:\Users\lesha\OneDrive\Desktop\LR_Two\LR_Two\bin\Debug\netcoreapp3.1\LR_Two.pdb
+C:\Users\lesha\OneDrive\Desktop\LR_Two\LR_Two\obj\Debug\netcoreapp3.1\LR_Two.csprojAssemblyReference.cache
+C:\Users\lesha\OneDrive\Desktop\LR_Two\LR_Two\obj\Debug\netcoreapp3.1\LR_Two.AssemblyInfoInputs.cache
+C:\Users\lesha\OneDrive\Desktop\LR_Two\LR_Two\obj\Debug\netcoreapp3.1\LR_Two.AssemblyInfo.cs
+C:\Users\lesha\OneDrive\Desktop\LR_Two\LR_Two\obj\Debug\netcoreapp3.1\LR_Two.csproj.CoreCompileInputs.cache
+C:\Users\lesha\OneDrive\Desktop\LR_Two\LR_Two\obj\Debug\netcoreapp3.1\LR_Two.dll
+C:\Users\lesha\OneDrive\Desktop\LR_Two\LR_Two\obj\Debug\netcoreapp3.1\LR_Two.pdb
+C:\Users\lesha\OneDrive\Desktop\LR_Two\LR_Two\obj\Debug\netcoreapp3.1\LR_Two.genruntimeconfig.cache
